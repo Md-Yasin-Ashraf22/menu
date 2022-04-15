@@ -1,0 +1,18 @@
+ .mega_menu_li{
+     position: static;
+ }
+ .mega_menu{
+     max-height: 80vh !important;
+     overflow-y: auto;
+ }
+ .side_bar{
+     position: relative;
+     z-index: 999;
+     width: 250px !important;
+     height: 100vh !important;
+ }
+ #menu_toggle{
+     position: absolute;
+     top: 0;
+     left: 100%;
+ }

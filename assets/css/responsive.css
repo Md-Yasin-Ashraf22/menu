@@ -1,0 +1,8 @@
+@media (max-width: 576px){
+    .side_bar{
+        margin-left: -250px;
+     }
+     .side_bar.active{
+        margin-left: 0;
+    }
+}
